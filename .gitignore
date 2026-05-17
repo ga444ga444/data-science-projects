@@ -1,0 +1,7 @@
+# Jupyter artifacts
+.ipynb_checkpoints/
+
+# System files
+.DS_Store
+Thumbs.db
+__pycache__/
