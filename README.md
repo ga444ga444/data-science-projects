@@ -51,13 +51,13 @@ Geospatial and network graph analysis applied to logistics and routing problems.
 ## Skills & Tools
 
 **Languages & Libraries**
-`Python` · `SQL (PostgreSQL)` · `Pandas` · `Scikit-learn` · `Shapely` · `NetworkX` · `Folium` · `Matplotlib`
+`Python` · `SQL (PostgreSQL)` · `Pandas` · `Scikit-learn` · `Shapely` · `NetworkX` · `Folium` · `Matplotlib` · `Seaborn`
 
 **BI & Analytics Platforms**
-`Metabase` · `Power BI` · `Tableau` · `Looker` · `Mode` · `Salesforce`
+`Metabase` · `Looker` · `Mode` · `Salesforce`
 
 **Infrastructure & Workflow**
-`dbt` · `Jira` · `Notion` · `Lean Six Sigma` · `Git`
+`Notion` · `Lean Six Sigma` · `Git`
 
 ---
 
@@ -73,5 +73,3 @@ My edge isn't just technical — it's knowing when a process needs to be rebuilt
 Industries: PropTech · FinTech · Real Estate (Freddie Mac & Fannie Mae platforms)
 
 ---
-
-*More projects coming soon — currently building in the areas of hierarchical clustering, CLV modelling, and churn prediction.*
