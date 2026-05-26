@@ -2,7 +2,7 @@
 
 **Operations & BI Leader | Python · SQL · Machine Learning**
 
-[🌐 Website](https://www.anthonygibbs.com) · [💼 LinkedIn](https://www.linkedin.com/in/anthonygibbs042)
+[💼 LinkedIn](https://www.linkedin.com/in/anthonygibbs042)
 
 ---
 
@@ -21,7 +21,6 @@ This repository is where I apply Python and machine learning directly to the kin
 | # | Project | Techniques | Tools | Status |
 |---|---------|------------|-------|--------|
 | 00 | [Customer Segmentation](./00_customer_segmentation/) | RFM Feature Engineering, K-Means Clustering | Python, Pandas, Scikit-learn, Matplotlib | ✅ Complete |
-| 01 | [Route Optimization](./01_Route_Optimization/) | Geospatial Analysis, Network Graphs | Python, Shapely, NetworkX | 🔄 In Progress |
 
 ---
 
@@ -37,14 +36,6 @@ Applied RFM (Recency, Frequency, Monetary) feature engineering to 541,909 retail
 | Promising | 19.3% |
 | Needs Attention | 27.0% |
 | Hibernating | 37.2% |
-
----
-
-### 01 · Route Optimization
-
-Geospatial and network graph analysis applied to logistics and routing problems. Exploring distance calculations, graph traversal, and operational efficiency modelling using Shapely and NetworkX.
-
-**Dataset:** Public geospatial data (OpenStreetMap / synthetic)
 
 ---
 
